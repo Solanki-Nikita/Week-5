@@ -1,6 +1,8 @@
 import React from 'react'
 // Import routing tools from react-router-dom
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import './App.css';
+
 //Import page Components
 import Home from './pages/Home';
 import About from './pages/About';
@@ -13,9 +15,11 @@ export default function App() {
   <BrowserRouter>
    <div>
       <nav>
-        <link to="/">Home</link>
-        <link to="/about">About</link>
-        <link to="/contact">Contact</link>
+        <Link to="/">Home</Link>
+        <br></br>
+        <Link to="/about">About</Link>
+        <br></br>
+        <Link to="/contact">Contact</Link>
       </nav>
      {/* Routes container holds all route definitions */}
       <Routes>
