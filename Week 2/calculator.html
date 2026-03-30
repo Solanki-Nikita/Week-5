@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title> Calculator</title>
+  <link rel="stylesheet" href="calculator.css" />
+</head>
+<body>
+  <div class="app">
+    <h1>Calculator</h1>
+
+    <div class="inputs">
+      <input id="num1" type="number" placeholder="Enter First number " />
+      <input id="num2" type="number" placeholder="Enter Secand number " />
+    </div>
+
+    <div class="buttons">
+      <button data-op="add">+</button>
+      <button data-op="sub">-</button>
+      <button data-op="mul">×</button>
+      <button data-op="div">÷</button>
+      <button id="clear">Clear</button>
+    </div>
+
+    <div class="output">
+      <p><b>Result:</b> <span id="result">-</span></p>
+      <!-- error message show krne ke liye(Empty input,divide by zero, invalid output) -->
+      <p id="message"></p>                                         
+    </div>
+  </div>
+
+  <script src="calculator.js" defer></script>
+</body>
+</html>
