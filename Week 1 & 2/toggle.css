@@ -1,0 +1,101 @@
+/* Light mode (default) */
+:root {
+  --bg: #f6f6f6;
+  --card: #ffffff;
+  --text: #111;
+  --muted: #444;
+  --border: #ddd;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.app {
+  width: 360px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  text-align: center;
+}
+
+.toggle-row {
+  margin-top: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.icon {
+  font-size: 22px;
+}
+
+.status {
+  font-weight: 600;
+}
+
+.hint {
+  color: var(--muted);
+  font-size: 14px;
+  margin-top: 14px;
+}
+
+/* Toggle switch UI */
+.switch {
+  position: relative;
+  width: 52px;
+  height: 28px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  inset: 0;
+  background: #ccc;
+  border-radius: 999px;
+  transition: 0.2s;
+}
+
+.slider::before {
+  content: "";
+  position: absolute;
+  height: 22px;
+  width: 22px;
+  left: 3px;
+  top: 3px;
+  background: white;
+  border-radius: 50%;
+  transition: 0.2s;
+}
+
+.switch input:checked + .slider {
+  background: #333;
+}
+
+.switch input:checked + .slider::before {
+  transform: translateX(24px);
+}
+
+/* Dark mode class on body */
+body.dark {
+  --bg: #121212;
+  --card: #1e1e1e;
+  --text: #f1f1f1;
+  --muted: #bdbdbd;
+  --border: #333;
+}

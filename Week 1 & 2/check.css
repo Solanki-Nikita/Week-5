@@ -1,0 +1,20 @@
+:root {
+  --bg: #fff;
+  --fg: #111;
+}
+
+/* default = light */
+.app {
+  background: var(--bg);
+  color: var(--fg);
+  min-height: 100vh;
+}
+
+/* when checked = dark */
+#theme:checked ~ .app {
+  --bg: #111;
+  --fg: #eee;
+}
+
+/* optional styling */
+.theme-toggle { cursor: pointer; }

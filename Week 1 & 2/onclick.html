@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #mydiv{
+            width: 100px ;
+            height: 100px;
+            background-color: aquamarine;
+            border: 2px solid black;
+            border-radius: 10px ;
+        }
+    </style>
+</head>
+<body>
+    <!-- <div id="mydiv" onmouseover="onMouseOver(this)"  onmouseout="onMouseOut(this)"></div>
+    <br>
+    <button onclick="changeColor()">Change color</button> -->
+    <div id="mydiv"> </div>
+    <br>
+    <!-- <button onmousedown="changeColorDown ()" onmouseup="changeColorUp ()">Change Color</button> -->
+
+    <button id="btn">Change Color</button>
+    <script>
+        // function changeColor(){
+        //     var div = document.getElementById("mydiv")
+        //     div.style.backgroundColor = "green"
+        // }
+        // function onMouseOver(div){
+        //     // var div = document.getElementById("mydiv")
+        //     div.style.backgroundColor="blue"
+        // }
+        // function onMouseOut(div){
+        //     // var div = document.getElementById("mydiv")
+        //     div.style.backgroundColor="purple"
+        // }
+
+        // function changeColorDown(){
+        //   var div = document.getElementById("mydiv")
+        //   div.style.backgroundColor = "green"
+        // }
+        //  function changeColorUp(){
+        //   var div = document.getElementById("mydiv")
+        //   div.style.backgroundColor = "purple"
+        // }
+        
+
+        document.getElementById('btn').
+        addEventListener('click',fun)
+
+        function fun(){
+            document.getElementById('mydiv').
+            style.backgroundColor = "red"
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product List</title>
+  <link rel="stylesheet" href="product.css" />
+</head>
+<body>
+  <div class="app">
+    <h1>Products</h1>
+
+    <div class="controls">
+      <input id="searchInput" type="text" placeholder="Search product name..." />
+
+      <select id="categorySelect">
+        <option value="all">All Categories</option>
+      </select>
+
+      <div class="price">
+        <input id="minPrice" type="number" placeholder="Min price" />
+        <input id="maxPrice" type="number" placeholder="Max price" />
+      </div>
+
+      <select id="sortSelect">
+        <option value="none">Sort: None</option>
+        <option value="low">Price: Low → High</option>
+        <option value="high">Price: High → Low</option>
+      </select>
+
+      <button id="toggleViewBtn" type="button">Switch to Grid</button>
+      <button id="resetBtn" type="button">Reset</button>
+    </div>
+
+    <p class="meta" id="metaText"></p>
+
+    <div id="productContainer" class="product-container list"></div>
+  </div>
+
+  <script src="product.js" defer></script>
+</body>
+</html>
