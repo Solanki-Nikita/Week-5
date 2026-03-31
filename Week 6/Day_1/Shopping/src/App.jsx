@@ -1,12 +1,22 @@
-
 import React from 'react'
+import ShoppingCard from './shoppingCard'
+import { CartProvider } from './CartContext'
+import './App.css';
 
 export default function App() {
   return (
-    <div>
-      <h1>Shopping</h1>
-      <p>Welcome to the Shopping App!</p>
-      
-    </div>
+    <CartProvider>
+      <div className="app-container">
+
+        {/* Header Section */}
+        <header className="header">
+          <h1 className="title">🛍 Shopping App</h1>
+          <p className="subtitle">Welcome to the Shopping App!</p>
+        </header>
+
+        <ShoppingCard />
+
+      </div>
+    </CartProvider>
   )
 }
