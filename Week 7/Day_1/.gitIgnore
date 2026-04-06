@@ -1,0 +1,1 @@
+/node_modules // Ignore the node_modules directory, which contains all the dependencies of the project. This directory can be very large and is not necessary to include in version control, as it can be easily recreated using the package.json file.
