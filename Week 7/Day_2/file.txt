@@ -1,0 +1,902 @@
+[
+    {
+        "fileName": "youthfully_brr.otf",
+        "fileExt": "vst",
+        "filePath": "/var/mail/drat_havoc.csh",
+        "directoryPath": "/sbin",
+        "fileType": "font",
+        "mimeType": "application/vnd.amazon.ebook",
+        "semver": "9.1.7"
+    },
+    {
+        "fileName": "or_although_near.7z",
+        "fileExt": "otf",
+        "filePath": "/var/spool/prejudice_ozone.webm",
+        "directoryPath": "/Users",
+        "fileType": "text",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "semver": "2.4.7"
+    },
+    {
+        "fileName": "ah.ini",
+        "fileExt": "xla",
+        "filePath": "/etc/mail/vaguely.xul",
+        "directoryPath": "/media",
+        "fileType": "font",
+        "mimeType": "audio/opus",
+        "semver": "0.5.5"
+    },
+    {
+        "fileName": "boo_mist.jsonld",
+        "fileExt": "tif",
+        "filePath": "/root/politely.list",
+        "directoryPath": "/var",
+        "fileType": "image",
+        "mimeType": "application/rtf",
+        "semver": "4.1.8"
+    },
+    {
+        "fileName": "hm_upward_when.xls",
+        "fileExt": "odt",
+        "filePath": "/usr/src/picturize_instantly_term.tiff",
+        "directoryPath": "/selinux",
+        "fileType": "audio",
+        "mimeType": "application/epub+zip",
+        "semver": "7.6.1"
+    },
+    {
+        "fileName": "madly.3gp",
+        "fileExt": "tif",
+        "filePath": "/System/yell_boohoo.woff2",
+        "directoryPath": "/private",
+        "fileType": "application",
+        "mimeType": "application/vnd.oasis.opendocument.presentation",
+        "semver": "7.5.7"
+    },
+    {
+        "fileName": "afterwards.vst",
+        "fileExt": "war",
+        "filePath": "/etc/defaults/furthermore.aac",
+        "directoryPath": "/var/tmp",
+        "fileType": "video",
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "semver": "1.2.2"
+    },
+    {
+        "fileName": "after.csv",
+        "fileExt": "ifb",
+        "filePath": "/media/silky.svg",
+        "directoryPath": "/opt/sbin",
+        "fileType": "image",
+        "mimeType": "application/x-httpd-php",
+        "semver": "1.3.0"
+    },
+    {
+        "fileName": "furthermore.m2a",
+        "fileExt": "gif",
+        "filePath": "/boot/indeed_resource.exe",
+        "directoryPath": "/home",
+        "fileType": "video",
+        "mimeType": "audio/ogg",
+        "semver": "3.9.0"
+    },
+    {
+        "fileName": "yet_as_inspect.ppt",
+        "fileExt": "zip",
+        "filePath": "/var/yp/ouch.ts",
+        "directoryPath": "/usr",
+        "fileType": "font",
+        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "semver": "1.0.7"
+    },
+    {
+        "fileName": "even_cone.mp4v",
+        "fileExt": "ogg",
+        "filePath": "/selinux/recipient_victoriously.woff",
+        "directoryPath": "/Applications",
+        "fileType": "font",
+        "mimeType": "application/vnd.oasis.opendocument.presentation",
+        "semver": "7.6.7"
+    },
+    {
+        "fileName": "yuck_supposing_freewheel.vst",
+        "fileExt": "mp3",
+        "filePath": "/var/spool/including.gz",
+        "directoryPath": "/bin",
+        "fileType": "font",
+        "mimeType": "video/mpeg",
+        "semver": "9.8.3"
+    },
+    {
+        "fileName": "while.css",
+        "fileExt": "zip",
+        "filePath": "/Network/unabashedly.war",
+        "directoryPath": "/var",
+        "fileType": "video",
+        "mimeType": "application/xhtml+xml",
+        "semver": "4.5.3"
+    },
+    {
+        "fileName": "establish_silo_moral.iso",
+        "fileExt": "img",
+        "filePath": "/usr/local/bin/till_ack.docx",
+        "directoryPath": "/Library",
+        "fileType": "video",
+        "mimeType": "application/msword",
+        "semver": "6.1.8"
+    },
+    {
+        "fileName": "modulo.avif",
+        "fileExt": "svg",
+        "filePath": "/dev/accelerate_generalise_among.m3a",
+        "directoryPath": "/sbin",
+        "fileType": "font",
+        "mimeType": "application/vnd.mozilla.xul+xml",
+        "semver": "9.4.6"
+    },
+    {
+        "fileName": "shipper_marginalise_into.text",
+        "fileExt": "ifb",
+        "filePath": "/home/aboard_afore.tiff",
+        "directoryPath": "/opt/bin",
+        "fileType": "text",
+        "mimeType": "application/msword",
+        "semver": "2.9.0"
+    },
+    {
+        "fileName": "though.midi",
+        "fileExt": "iso",
+        "filePath": "/etc/periodic/supposing_integration.mpkg",
+        "directoryPath": "/home/user/dir",
+        "fileType": "application",
+        "mimeType": "application/x-sh",
+        "semver": "1.4.4"
+    },
+    {
+        "fileName": "hmph.jsonld",
+        "fileExt": "7z",
+        "filePath": "/etc/periodic/ack_modulate.exe",
+        "directoryPath": "/Users",
+        "fileType": "image",
+        "mimeType": "application/vnd.amazon.ebook",
+        "semver": "9.7.1"
+    },
+    {
+        "fileName": "greedily.pps",
+        "fileExt": "vsd",
+        "filePath": "/usr/share/ick.msi",
+        "directoryPath": "/usr/obj",
+        "fileType": "image",
+        "mimeType": "text/html",
+        "semver": "3.0.0"
+    },
+    {
+        "fileName": "rough_fortunately.eot",
+        "fileExt": "mpkg",
+        "filePath": "/home/user/dir/of_consequently.pptx",
+        "directoryPath": "/var",
+        "fileType": "image",
+        "mimeType": "audio/aac",
+        "semver": "4.9.9"
+    },
+    {
+        "fileName": "strident_anenst.kar",
+        "fileExt": "png",
+        "filePath": "/var/log/leading.woff2",
+        "directoryPath": "/private/var",
+        "fileType": "audio",
+        "mimeType": "text/csv",
+        "semver": "4.5.5"
+    },
+    {
+        "fileName": "ew.spx",
+        "fileExt": "svg",
+        "filePath": "/var/log/mmm_eek.lrf",
+        "directoryPath": "/usr/ports",
+        "fileType": "application",
+        "mimeType": "application/x-bzip2",
+        "semver": "5.7.7"
+    },
+    {
+        "fileName": "extra_large_whose.dms",
+        "fileExt": "buffer",
+        "filePath": "/proc/slop.oga",
+        "directoryPath": "/boot",
+        "fileType": "text",
+        "mimeType": "application/x-bzip2",
+        "semver": "6.4.7"
+    },
+    {
+        "fileName": "superior_properly_amid.pptx",
+        "fileExt": "war",
+        "filePath": "/var/spool/wildlife_the_reassuringly.tiff",
+        "directoryPath": "/boot",
+        "fileType": "application",
+        "mimeType": "image/gif",
+        "semver": "6.6.0"
+    },
+    {
+        "fileName": "thumb_brightly.exe",
+        "fileExt": "m2a",
+        "filePath": "/home/rural_operate_whereas.def",
+        "directoryPath": "/etc/namedb",
+        "fileType": "video",
+        "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "semver": "6.8.5"
+    },
+    {
+        "fileName": "lovable.eot",
+        "fileExt": "tiff",
+        "filePath": "/var/typeface.js",
+        "directoryPath": "/bin",
+        "fileType": "audio",
+        "mimeType": "image/gif",
+        "semver": "4.8.6"
+    },
+    {
+        "fileName": "unfolded.mid",
+        "fileExt": "xsd",
+        "filePath": "/usr/X11R6/adjustment.in",
+        "directoryPath": "/selinux",
+        "fileType": "audio",
+        "mimeType": "application/vnd.rar",
+        "semver": "8.5.8"
+    },
+    {
+        "fileName": "blindly_verbally_indeed.eot",
+        "fileExt": "deploy",
+        "filePath": "/etc/ppp/easily_joust_gadzooks.dump",
+        "directoryPath": "/private/var",
+        "fileType": "text",
+        "mimeType": "audio/3gpp2",
+        "semver": "1.1.5"
+    },
+    {
+        "fileName": "chip_anchored.bmp",
+        "fileExt": "mar",
+        "filePath": "/home/next.dll",
+        "directoryPath": "/var/spool",
+        "fileType": "video",
+        "mimeType": "application/x-freearc",
+        "semver": "7.1.8"
+    },
+    {
+        "fileName": "after.ogv",
+        "fileExt": "odt",
+        "filePath": "/usr/libexec/notwithstanding_besides.avi",
+        "directoryPath": "/var/yp",
+        "fileType": "application",
+        "mimeType": "application/vnd.ms-powerpoint",
+        "semver": "4.3.6"
+    },
+    {
+        "fileName": "yowza_sans.odt",
+        "fileExt": "bpk",
+        "filePath": "/opt/include/why.otf",
+        "directoryPath": "/usr/X11R6",
+        "fileType": "text",
+        "mimeType": "image/svg+xml",
+        "semver": "4.5.9"
+    },
+    {
+        "fileName": "whether.midi",
+        "fileExt": "htm",
+        "filePath": "/System/knowingly_toward.gz",
+        "directoryPath": "/home",
+        "fileType": "audio",
+        "mimeType": "image/png",
+        "semver": "2.2.6"
+    },
+    {
+        "fileName": "appellation_what_oddly.msi",
+        "fileExt": "xls",
+        "filePath": "/etc/namedb/quell_roughly.msp",
+        "directoryPath": "/sys",
+        "fileType": "video",
+        "mimeType": "font/woff",
+        "semver": "7.5.5"
+    },
+    {
+        "fileName": "variable.so",
+        "fileExt": "bmp",
+        "filePath": "/bin/hacksaw_yowza.pps",
+        "directoryPath": "/usr/include",
+        "fileType": "font",
+        "mimeType": "application/vnd.ms-excel",
+        "semver": "0.6.4"
+    },
+    {
+        "fileName": "well_worn_pro_feeding.jsonld",
+        "fileExt": "ics",
+        "filePath": "/usr/ports/berry_indoctrinate_as.mjs",
+        "directoryPath": "/proc",
+        "fileType": "image",
+        "mimeType": "application/vnd.oasis.opendocument.text",
+        "semver": "6.3.9"
+    },
+    {
+        "fileName": "since.dmg",
+        "fileExt": "ogv",
+        "filePath": "/selinux/or_meanwhile_decisive.xul",
+        "directoryPath": "/usr/sbin",
+        "fileType": "video",
+        "mimeType": "application/gzip",
+        "semver": "9.8.3"
+    },
+    {
+        "fileName": "regarding_er.xul",
+        "fileExt": "txt",
+        "filePath": "/home/user/dir/sacrifice_optimal_reference.ico",
+        "directoryPath": "/opt",
+        "fileType": "video",
+        "mimeType": "image/jpeg",
+        "semver": "2.5.1"
+    },
+    {
+        "fileName": "marketplace.img",
+        "fileExt": "xla",
+        "filePath": "/home/user/above.csh",
+        "directoryPath": "/private",
+        "fileType": "font",
+        "mimeType": "application/msword",
+        "semver": "8.5.4"
+    },
+    {
+        "fileName": "integrity_murky.boz",
+        "fileExt": "boz",
+        "filePath": "/usr/local/bin/lazily_wombat.xml",
+        "directoryPath": "/var/mail",
+        "fileType": "font",
+        "mimeType": "application/x-bzip2",
+        "semver": "8.4.0"
+    },
+    {
+        "fileName": "finally_nudge_tattered.dmg",
+        "fileExt": "gz",
+        "filePath": "/System/strawman_lightly_provided.dump",
+        "directoryPath": "/usr/ports",
+        "fileType": "video",
+        "mimeType": "image/png",
+        "semver": "8.3.4"
+    },
+    {
+        "fileName": "justly.rar",
+        "fileExt": "xml",
+        "filePath": "/root/ugh.elc",
+        "directoryPath": "/etc/namedb",
+        "fileType": "application",
+        "mimeType": "image/gif",
+        "semver": "7.1.5"
+    },
+    {
+        "fileName": "ha.doc",
+        "fileExt": "ico",
+        "filePath": "/media/equalise_hacienda.rng",
+        "directoryPath": "/var/tmp",
+        "fileType": "application",
+        "mimeType": "application/vnd.visio",
+        "semver": "1.9.4"
+    },
+    {
+        "fileName": "following_footnote.m2a",
+        "fileExt": "pps",
+        "filePath": "/bin/because_upwardly_ugh.boz",
+        "directoryPath": "/sbin",
+        "fileType": "video",
+        "mimeType": "application/xml",
+        "semver": "2.4.6"
+    },
+    {
+        "fileName": "hiccough_slight_until.deb",
+        "fileExt": "avif",
+        "filePath": "/opt/sbin/psst_across_lead.opus",
+        "directoryPath": "/etc/periodic",
+        "fileType": "audio",
+        "mimeType": "audio/mpeg",
+        "semver": "1.8.5"
+    },
+    {
+        "fileName": "excepting.odp",
+        "fileExt": "xht",
+        "filePath": "/usr/X11R6/narrow.ifb",
+        "directoryPath": "/usr",
+        "fileType": "font",
+        "mimeType": "application/zip",
+        "semver": "6.0.1"
+    },
+    {
+        "fileName": "outside_acidly_yowza.php",
+        "fileExt": "ogg",
+        "filePath": "/root/basic_whoever.ppt",
+        "directoryPath": "/boot/defaults",
+        "fileType": "font",
+        "mimeType": "video/x-msvideo",
+        "semver": "0.0.1"
+    },
+    {
+        "fileName": "modulo.map",
+        "fileExt": "ini",
+        "filePath": "/media/joshingly_afore.ics",
+        "directoryPath": "/usr/libdata",
+        "fileType": "font",
+        "mimeType": "audio/midi",
+        "semver": "5.4.0"
+    },
+    {
+        "fileName": "idle.m2v",
+        "fileExt": "rar",
+        "filePath": "/etc/namedb/popular_diminish.bz",
+        "directoryPath": "/var",
+        "fileType": "image",
+        "mimeType": "application/json",
+        "semver": "9.9.0"
+    },
+    {
+        "fileName": "soon_finally.azw",
+        "fileExt": "oga",
+        "filePath": "/net/flub_checking_bathhouse.sh",
+        "directoryPath": "/Network",
+        "fileType": "font",
+        "mimeType": "audio/wav",
+        "semver": "8.7.5"
+    },
+    {
+        "fileName": "hinder_excluding_mostly.epub",
+        "fileExt": "ico",
+        "filePath": "/usr/libdata/when.img",
+        "directoryPath": "/home",
+        "fileType": "text",
+        "mimeType": "application/x-7z-compressed",
+        "semver": "2.6.2"
+    },
+    {
+        "fileName": "prolong_fifth_exemplify.xsd",
+        "fileExt": "mid",
+        "filePath": "/media/mundane_hm_lanky.in",
+        "directoryPath": "/Library",
+        "fileType": "font",
+        "mimeType": "application/octet-stream",
+        "semver": "8.1.2"
+    },
+    {
+        "fileName": "geez.xht",
+        "fileExt": "otf",
+        "filePath": "/usr/sbin/fairly.rar",
+        "directoryPath": "/opt",
+        "fileType": "image",
+        "mimeType": "application/vnd.amazon.ebook",
+        "semver": "5.7.0"
+    },
+    {
+        "fileName": "generally_exemplary.m2v",
+        "fileExt": "svg",
+        "filePath": "/mnt/expire_check.php",
+        "directoryPath": "/sbin",
+        "fileType": "audio",
+        "mimeType": "font/woff",
+        "semver": "0.9.3"
+    },
+    {
+        "fileName": "kookily_ack.dump",
+        "fileExt": "map",
+        "filePath": "/home/madden_substantiate.csh",
+        "directoryPath": "/usr/share",
+        "fileType": "application",
+        "mimeType": "application/x-httpd-php",
+        "semver": "8.2.6"
+    },
+    {
+        "fileName": "desensitize_dynasty_scallion.rng",
+        "fileExt": "js",
+        "filePath": "/etc/ppp/oof.mpeg",
+        "directoryPath": "/var/tmp",
+        "fileType": "image",
+        "mimeType": "video/mp4",
+        "semver": "9.7.3"
+    },
+    {
+        "fileName": "underpants.wav",
+        "fileExt": "woff",
+        "filePath": "/Library/lonely.jpg",
+        "directoryPath": "/Applications",
+        "fileType": "audio",
+        "mimeType": "application/xhtml+xml",
+        "semver": "6.2.8"
+    },
+    {
+        "fileName": "outcome_whose_tentacle.dms",
+        "fileExt": "msi",
+        "filePath": "/mnt/lest_furiously_rarely.ogx",
+        "directoryPath": "/tmp",
+        "fileType": "image",
+        "mimeType": "image/jpeg",
+        "semver": "2.8.1"
+    },
+    {
+        "fileName": "whirlwind_orange.m2a",
+        "fileExt": "3g2",
+        "filePath": "/boot/defaults/boohoo.spx",
+        "directoryPath": "/usr/libdata",
+        "fileType": "image",
+        "mimeType": "application/epub+zip",
+        "semver": "4.3.4"
+    },
+    {
+        "fileName": "austere_but_whoever.mpga",
+        "fileExt": "m1v",
+        "filePath": "/boot/emission.txt",
+        "directoryPath": "/bin",
+        "fileType": "video",
+        "mimeType": "video/x-msvideo",
+        "semver": "4.5.0"
+    },
+    {
+        "fileName": "ranger.mpga",
+        "fileExt": "mp4v",
+        "filePath": "/Library/mutt_hmph.svg",
+        "directoryPath": "/private",
+        "fileType": "text",
+        "mimeType": "application/rtf",
+        "semver": "7.3.0"
+    },
+    {
+        "fileName": "lively_notwithstanding.m2a",
+        "fileExt": "msp",
+        "filePath": "/etc/periodic/descale_management_hill.war",
+        "directoryPath": "/etc",
+        "fileType": "font",
+        "mimeType": "application/pdf",
+        "semver": "9.3.8"
+    },
+    {
+        "fileName": "parched.xhtml",
+        "fileExt": "msp",
+        "filePath": "/etc/aboard.tar",
+        "directoryPath": "/usr/include",
+        "fileType": "video",
+        "mimeType": "image/jpeg",
+        "semver": "8.3.5"
+    },
+    {
+        "fileName": "instructive_unlawful_steamroller.pps",
+        "fileExt": "ifb",
+        "filePath": "/usr/apud_meaningfully.deploy",
+        "directoryPath": "/dev",
+        "fileType": "image",
+        "mimeType": "text/plain",
+        "semver": "8.0.8"
+    },
+    {
+        "fileName": "dimpled_shoelace_deadly.distz",
+        "fileExt": "bin",
+        "filePath": "/opt/lib/ew_judgementally.so",
+        "directoryPath": "/private",
+        "fileType": "application",
+        "mimeType": "audio/mpeg",
+        "semver": "4.7.1"
+    },
+    {
+        "fileName": "on_roughly.m1v",
+        "fileExt": "odt",
+        "filePath": "/home/user/dig_denominate_whoa.conf",
+        "directoryPath": "/usr/libexec",
+        "fileType": "text",
+        "mimeType": "application/vnd.oasis.opendocument.text",
+        "semver": "4.1.8"
+    },
+    {
+        "fileName": "transplantation_adjective_plus.boz",
+        "fileExt": "img",
+        "filePath": "/etc/defaults/ethical.rtf",
+        "directoryPath": "/Network",
+        "fileType": "image",
+        "mimeType": "text/calendar",
+        "semver": "6.8.3"
+    },
+    {
+        "fileName": "when_around.rar",
+        "fileExt": "dist",
+        "filePath": "/etc/mail/what_tank.ttf",
+        "directoryPath": "/var/mail",
+        "fileType": "image",
+        "mimeType": "application/ld+json",
+        "semver": "2.5.1"
+    },
+    {
+        "fileName": "titrate.bz",
+        "fileExt": "ods",
+        "filePath": "/opt/bin/foreshadow_mishit_disassemble.vsd",
+        "directoryPath": "/home",
+        "fileType": "font",
+        "mimeType": "video/mpeg",
+        "semver": "7.9.6"
+    },
+    {
+        "fileName": "choke.eot",
+        "fileExt": "boz",
+        "filePath": "/Users/dwell_roasted.vst",
+        "directoryPath": "/var/log",
+        "fileType": "text",
+        "mimeType": "text/javascript",
+        "semver": "8.1.6"
+    },
+    {
+        "fileName": "though.wav",
+        "fileExt": "csh",
+        "filePath": "/etc/goddess_factor_raw.arc",
+        "directoryPath": "/usr/X11R6",
+        "fileType": "application",
+        "mimeType": "audio/mpeg",
+        "semver": "0.3.5"
+    },
+    {
+        "fileName": "noted_soon.war",
+        "fileExt": "xsd",
+        "filePath": "/etc/ppp/ha.jsonld",
+        "directoryPath": "/root",
+        "fileType": "image",
+        "mimeType": "image/vnd.microsoft.icon",
+        "semver": "8.4.6"
+    },
+    {
+        "fileName": "who_slimy_conscious.xla",
+        "fileExt": "bin",
+        "filePath": "/var/tmp/exactly.js",
+        "directoryPath": "/opt/include",
+        "fileType": "text",
+        "mimeType": "video/mp4",
+        "semver": "4.2.3"
+    },
+    {
+        "fileName": "mmm.ifb",
+        "fileExt": "war",
+        "filePath": "/Applications/stool_yum.war",
+        "directoryPath": "/mnt",
+        "fileType": "application",
+        "mimeType": "video/mp2t",
+        "semver": "8.9.7"
+    },
+    {
+        "fileName": "ironclad_observation.png",
+        "fileExt": "webm",
+        "filePath": "/root/extremely_violently_striped.mpe",
+        "directoryPath": "/var/mail",
+        "fileType": "application",
+        "mimeType": "audio/3gpp",
+        "semver": "0.2.0"
+    },
+    {
+        "fileName": "hm_mussel_solidly.bz2",
+        "fileExt": "mjs",
+        "filePath": "/usr/local/src/aha_ah_required.exe",
+        "directoryPath": "/usr/libexec",
+        "fileType": "video",
+        "mimeType": "application/x-bzip",
+        "semver": "6.3.2"
+    },
+    {
+        "fileName": "blurt_phew.kar",
+        "fileExt": "7z",
+        "filePath": "/usr/share/lipoprotein_heavily_after.m1v",
+        "directoryPath": "/private/var",
+        "fileType": "application",
+        "mimeType": "application/json",
+        "semver": "2.2.3"
+    },
+    {
+        "fileName": "lively_political.epub",
+        "fileExt": "odt",
+        "filePath": "/Network/pry.mpg4",
+        "directoryPath": "/usr/sbin",
+        "fileType": "audio",
+        "mimeType": "text/csv",
+        "semver": "9.3.9"
+    },
+    {
+        "fileName": "delirious_dissemination.xht",
+        "fileExt": "mid",
+        "filePath": "/var/spool/cruelly_tool_silicon.gz",
+        "directoryPath": "/Library",
+        "fileType": "video",
+        "mimeType": "application/x-csh",
+        "semver": "9.2.9"
+    },
+    {
+        "fileName": "consequently_whoever_polite.mjs",
+        "fileExt": "vst",
+        "filePath": "/opt/share/agency_lest_clog.odt",
+        "directoryPath": "/lib",
+        "fileType": "video",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "semver": "0.1.7"
+    },
+    {
+        "fileName": "pish.pkg",
+        "fileExt": "elc",
+        "filePath": "/Applications/glorious_likewise_unlike.pot",
+        "directoryPath": "/private",
+        "fileType": "video",
+        "mimeType": "audio/mpeg",
+        "semver": "8.5.1"
+    },
+    {
+        "fileName": "nab_doubtfully_gosh.rmi",
+        "fileExt": "bin",
+        "filePath": "/var/spool/furthermore.ttf",
+        "directoryPath": "/usr/libdata",
+        "fileType": "audio",
+        "mimeType": "audio/mpeg",
+        "semver": "4.6.8"
+    },
+    {
+        "fileName": "virtue.lrf",
+        "fileExt": "xsd",
+        "filePath": "/opt/bin/via_quiz.png",
+        "directoryPath": "/Network",
+        "fileType": "audio",
+        "mimeType": "font/otf",
+        "semver": "3.2.6"
+    },
+    {
+        "fileName": "whenever.mp2",
+        "fileExt": "mpg4",
+        "filePath": "/usr/X11R6/reservation.iso",
+        "directoryPath": "/opt/lib",
+        "fileType": "video",
+        "mimeType": "image/jpeg",
+        "semver": "3.8.8"
+    },
+    {
+        "fileName": "notwithstanding_crick.json",
+        "fileExt": "weba",
+        "filePath": "/mnt/thankful_remain.vst",
+        "directoryPath": "/opt/include",
+        "fileType": "video",
+        "mimeType": "audio/webm",
+        "semver": "1.3.8"
+    },
+    {
+        "fileName": "enormous_fancy_meh.xla",
+        "fileExt": "mpeg",
+        "filePath": "/boot/zowie_or.shtml",
+        "directoryPath": "/Users",
+        "fileType": "image",
+        "mimeType": "audio/opus",
+        "semver": "1.2.3"
+    },
+    {
+        "fileName": "violet_paddock.xhtml",
+        "fileExt": "mpkg",
+        "filePath": "/boot/defaults/prickly_voluntarily.xht",
+        "directoryPath": "/usr/libdata",
+        "fileType": "application",
+        "mimeType": "image/svg+xml",
+        "semver": "4.2.5"
+    },
+    {
+        "fileName": "divide_thing_nasalize.so",
+        "fileExt": "deb",
+        "filePath": "/etc/ppp/hence_footwear_yum.mp4",
+        "directoryPath": "/usr/local/bin",
+        "fileType": "font",
+        "mimeType": "text/calendar",
+        "semver": "5.8.0"
+    },
+    {
+        "fileName": "unfold_pro.xlsx",
+        "fileExt": "midi",
+        "filePath": "/root/eek_because.txt",
+        "directoryPath": "/usr/libexec",
+        "fileType": "video",
+        "mimeType": "audio/aac",
+        "semver": "5.7.9"
+    },
+    {
+        "fileName": "beside_aside.jpe",
+        "fileExt": "m2a",
+        "filePath": "/var/yp/hiccup.ts",
+        "directoryPath": "/opt/bin",
+        "fileType": "video",
+        "mimeType": "video/ogg",
+        "semver": "5.9.8"
+    },
+    {
+        "fileName": "ah_noir.jpe",
+        "fileExt": "mp3",
+        "filePath": "/tmp/treatment_stab.mp2a",
+        "directoryPath": "/home/user/dir",
+        "fileType": "font",
+        "mimeType": "application/zip",
+        "semver": "6.2.3"
+    },
+    {
+        "fileName": "phooey_quarter_flow.dll",
+        "fileExt": "msi",
+        "filePath": "/Library/actuate.boz",
+        "directoryPath": "/Network",
+        "fileType": "text",
+        "mimeType": "font/woff",
+        "semver": "1.1.9"
+    },
+    {
+        "fileName": "hibernate_general_via.kar",
+        "fileExt": "ogg",
+        "filePath": "/usr/bin/apologize_terribly_after.tiff",
+        "directoryPath": "/var/tmp",
+        "fileType": "font",
+        "mimeType": "image/gif",
+        "semver": "9.6.2"
+    },
+    {
+        "fileName": "zowie.shtml",
+        "fileExt": "gz",
+        "filePath": "/opt/sidestep_yippee.def",
+        "directoryPath": "/root",
+        "fileType": "audio",
+        "mimeType": "audio/midi",
+        "semver": "4.6.1"
+    },
+    {
+        "fileName": "heavy_brownie.html",
+        "fileExt": "3g2",
+        "filePath": "/tmp/royal_since.ico",
+        "directoryPath": "/etc",
+        "fileType": "video",
+        "mimeType": "audio/ogg",
+        "semver": "2.2.9"
+    },
+    {
+        "fileName": "drat_nor.mid",
+        "fileExt": "vss",
+        "filePath": "/usr/yahoo_uh_huh_daily.mp4",
+        "directoryPath": "/opt",
+        "fileType": "application",
+        "mimeType": "application/x-freearc",
+        "semver": "3.1.6"
+    },
+    {
+        "fileName": "lest.abw",
+        "fileExt": "m2a",
+        "filePath": "/usr/obj/times.ogg",
+        "directoryPath": "/sbin",
+        "fileType": "font",
+        "mimeType": "text/html",
+        "semver": "6.8.4"
+    },
+    {
+        "fileName": "sensitive.xlw",
+        "fileExt": "mp2a",
+        "filePath": "/usr/src/that_reasonable_gesture.m1v",
+        "directoryPath": "/home",
+        "fileType": "application",
+        "mimeType": "application/msword",
+        "semver": "2.7.1"
+    },
+    {
+        "fileName": "joyously_yet.js",
+        "fileExt": "mp4v",
+        "filePath": "/srv/instructive_snaggle.jsonld",
+        "directoryPath": "/var",
+        "fileType": "image",
+        "mimeType": "audio/ogg",
+        "semver": "8.4.3"
+    },
+    {
+        "fileName": "heron_mid_abaft.exe",
+        "fileExt": "ogv",
+        "filePath": "/usr/share/or.xls",
+        "directoryPath": "/Users",
+        "fileType": "audio",
+        "mimeType": "video/3gpp",
+        "semver": "4.7.8"
+    },
+    {
+        "fileName": "of_counter.arc",
+        "fileExt": "3g2",
+        "filePath": "/Network/till_empathize_fooey.html",
+        "directoryPath": "/Library",
+        "fileType": "font",
+        "mimeType": "application/x-httpd-php",
+        "semver": "0.5.5"
+    }
+]
